@@ -50,7 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614750235090</updated>
       <workItem from="1614750237330" duration="1567000" />
-      <workItem from="1614752178016" duration="757000" />
+      <workItem from="1614752178016" duration="1067000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter 02/03">
       <created>1614750374343</created>
@@ -87,6 +87,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Chapter 02/03" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 02/03" />
+    <MESSAGE value="del03-04" />
+    <option name="LAST_COMMIT_MESSAGE" value="del03-04" />
   </component>
 </project>
