@@ -276,6 +276,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/chapter_06/01_algor_simulator.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>

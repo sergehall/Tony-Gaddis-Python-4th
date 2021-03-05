@@ -2,7 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bed76a71-944f-4051-a2e1-5fecffeef46e" name="Default Changelist" comment="Chapter 05">
-      <change beforePath="$PROJECT_DIR$/chapter_05/22_rock_paper_scissors_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_05/22_rock_paper_scissors_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_06/01_file display.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_06/02_file_head_display.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_06/03_line_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_06/04_item_counter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_06/05_sum_of_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_06/06_average_of_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_06/07_random_num_file_writer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_06/08_random_num_file_reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_06/09_average_except.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_06/10_golf_scores.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_06/11_personal_web_page_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_06/12_average_num_of_steps..py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_06/algor_simulator_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_06/algor_simulator_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_06/algor_simulator_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_06/algor_simulator_04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_06/algor_simulator_05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_06/algor_simulator_06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_06/algor_simulator_07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_06/algor_simulator_08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_06/golf.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_06/my_name.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_06/number_list.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_06/numbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_06/students.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,7 +219,8 @@
       <workItem from="1614757920262" duration="5310000" />
       <workItem from="1614765994814" duration="282000" />
       <workItem from="1614766281982" duration="29000" />
-      <workItem from="1614832207640" duration="19048000" />
+      <workItem from="1614832207640" duration="19196000" />
+      <workItem from="1614923143024" duration="2981000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter 02/03">
       <created>1614750374343</created>
@@ -244,7 +271,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614852266452</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Chapter 05">
+      <created>1614852419726</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1614852419726</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
