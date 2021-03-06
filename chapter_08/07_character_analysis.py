@@ -7,7 +7,7 @@
 
 
 def count():
-    open_file_read = open('text.txt', 'r')
+    open_file_read = open('my_text.txt', 'r')
     content = open_file_read.readlines()  # по одной строке считываем из файла
     count_upper = 0
     count_lower = 0

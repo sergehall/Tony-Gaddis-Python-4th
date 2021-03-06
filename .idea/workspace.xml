@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bed76a71-944f-4051-a2e1-5fecffeef46e" name="Default Changelist" comment="Chapter 07">
-      <change afterPath="$PROJECT_DIR$/chapter_08/01_initials.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_08/02_sum_of_dig_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_08/03_date_printer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_08/04_morse_code_converter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_08/05_alphabetic_tel_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_08/06_average_num_words.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_08/07_character_analysis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_08/08_sentence_capitalizer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_08/09_vowels_consonants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_08/10_most_frequent_char.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_08/11_string_separator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_08/12_pig_latin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_08/13_power_ball.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_08/pbnumbers.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
+    <list default="true" id="bed76a71-944f-4051-a2e1-5fecffeef46e" name="Default Changelist" comment="Chapter 08">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,8 +55,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.13_power_ball">
-    <configuration name="09_vowels_consonants" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.07_character_analysis">
+    <configuration name="06_average_num_words" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Tony-Gaddis-Python-4th" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,7 +69,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_08/09_vowels_consonants.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_08/06_average_num_words.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10_most_frequent_char" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07_character_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Tony-Gaddis-Python-4th" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,7 +91,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_08/10_most_frequent_char.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_08/07_character_analysis.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.07_character_analysis" />
+        <item itemvalue="Python.06_average_num_words" />
         <item itemvalue="Python.13_power_ball" />
         <item itemvalue="Python.12_pig_latin" />
         <item itemvalue="Python.11_string_separator" />
-        <item itemvalue="Python.10_most_frequent_char" />
-        <item itemvalue="Python.09_vowels_consonants" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +195,7 @@
       <workItem from="1614766281982" duration="29000" />
       <workItem from="1614832207640" duration="19196000" />
       <workItem from="1614923143024" duration="14340000" />
-      <workItem from="1615005477759" duration="7220000" />
+      <workItem from="1615005477759" duration="7583000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter 02/03">
       <created>1614750374343</created>
@@ -282,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614939257997</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Chapter 08">
+      <created>1615013052588</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1615013052588</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -309,13 +301,14 @@
     <MESSAGE value="Chapter 05" />
     <MESSAGE value="Chapter 06" />
     <MESSAGE value="Chapter 07" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 07" />
+    <MESSAGE value="Chapter 08" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 08" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$04_number_analysis_program.coverage" NAME="04_number_analysis_program Coverage Results" MODIFIED="1614933360004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_07" />
     <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$13_maximum_of_two_values.coverage" NAME="13_maximum_of_two_values Coverage Results" MODIFIED="1614843801350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_05" />
     <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$01_initials.coverage" NAME="01_initials Coverage Results" MODIFIED="1615006665683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_08" />
-    <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$06_average_num_words.coverage" NAME="06_average_num_words Coverage Results" MODIFIED="1615010085359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_08" />
+    <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$06_average_num_words.coverage" NAME="06_average_num_words Coverage Results" MODIFIED="1615013176968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_08" />
     <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$02_sum_of_dig_string.coverage" NAME="02_sum_of_dig_string Coverage Results" MODIFIED="1615007517050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_08" />
     <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$03_budget_analysis.coverage" NAME="03_budget_analysis Coverage Results" MODIFIED="1614833233589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_04" />
     <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$02_sales_tax_refactoring.coverage" NAME="02_sales_tax_refactoring Coverage Results" MODIFIED="1614838992914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_05" />
