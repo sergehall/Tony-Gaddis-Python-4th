@@ -2,6 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bed76a71-944f-4051-a2e1-5fecffeef46e" name="Default Changelist" comment="Chapter 08">
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_08/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_09/01_course_information.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_09/02_capital_quiz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_09/03_file_encr_and decryption.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_09/04_unique_words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_09/05_word_frequency.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_09/06_file_analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_09/07_world_series_winners.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_09/08_name_email_addresses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_09/09_blackjack_simulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_09/WorldSeriesWinners.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_09/de_crypt_code.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_09/my_crypt.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_09/name_email.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_09/text_count_9.4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_09/text_count_9.6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_09/text_count_9_6_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_09/text_file_9.4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Tony-Gaddis-Python-4th.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Tony-Gaddis-Python-4th.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,8 +60,9 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="consents" />
+    <property name="settings.editor.selected.configurable" value="duplicates.index" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -55,8 +77,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.07_character_analysis">
-    <configuration name="06_average_num_words" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.09_blackjack_simulation">
+    <configuration name="05_word_frequency" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Tony-Gaddis-Python-4th" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -64,12 +86,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_08" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_09" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_08/06_average_num_words.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_09/05_word_frequency.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07_character_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06_file_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Tony-Gaddis-Python-4th" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,21 +108,21 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_08" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_09" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_08/07_character_analysis.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_09/06_file_analysis.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11_string_separator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07_world_series_winners" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Tony-Gaddis-Python-4th" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,21 +130,21 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_08" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_09" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_08/11_string_separator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_09/07_world_series_winners.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="12_pig_latin" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="08_name_email_addresses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Tony-Gaddis-Python-4th" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,21 +152,40 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_08" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_09" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_08/12_pig_latin.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_09/08_name_email_addresses.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="13_power_ball" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="09_blackjack_simulation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Tony-Gaddis-Python-4th" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_09" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_09/09_blackjack_simulation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Tony-Gaddis-Python-4th" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,14 +193,14 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_08" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_08/13_power_ball.py" />
+      <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -168,11 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.07_character_analysis" />
-        <item itemvalue="Python.06_average_num_words" />
-        <item itemvalue="Python.13_power_ball" />
-        <item itemvalue="Python.12_pig_latin" />
-        <item itemvalue="Python.11_string_separator" />
+        <item itemvalue="Python.09_blackjack_simulation" />
+        <item itemvalue="Python.08_name_email_addresses" />
+        <item itemvalue="Python.07_world_series_winners" />
+        <item itemvalue="Python.06_file_analysis" />
+        <item itemvalue="Python.05_word_frequency" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +236,12 @@
       <workItem from="1614766281982" duration="29000" />
       <workItem from="1614832207640" duration="19196000" />
       <workItem from="1614923143024" duration="14340000" />
-      <workItem from="1615005477759" duration="7583000" />
+      <workItem from="1615005477759" duration="7825000" />
+      <workItem from="1615013493647" duration="102000" />
+      <workItem from="1615018474952" duration="4762000" />
+      <workItem from="1615023319321" duration="4649000" />
+      <workItem from="1615082489249" duration="2674000" />
+      <workItem from="1615276438733" duration="315000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter 02/03">
       <created>1614750374343</created>
@@ -274,7 +320,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615013052588</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Chapter 08">
+      <created>1615013406754</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1615013406755</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,7 +361,7 @@
     <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$04_number_analysis_program.coverage" NAME="04_number_analysis_program Coverage Results" MODIFIED="1614933360004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_07" />
     <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$13_maximum_of_two_values.coverage" NAME="13_maximum_of_two_values Coverage Results" MODIFIED="1614843801350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_05" />
     <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$01_initials.coverage" NAME="01_initials Coverage Results" MODIFIED="1615006665683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_08" />
-    <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$06_average_num_words.coverage" NAME="06_average_num_words Coverage Results" MODIFIED="1615013176968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_08" />
+    <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$06_average_num_words.coverage" NAME="06_average_num_words Coverage Results" MODIFIED="1615013269062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_08" />
     <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$02_sum_of_dig_string.coverage" NAME="02_sum_of_dig_string Coverage Results" MODIFIED="1615007517050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_08" />
     <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$03_budget_analysis.coverage" NAME="03_budget_analysis Coverage Results" MODIFIED="1614833233589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_04" />
     <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$02_sales_tax_refactoring.coverage" NAME="02_sales_tax_refactoring Coverage Results" MODIFIED="1614838992914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_05" />
@@ -331,15 +384,19 @@
     <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$16_turtle_graphics_squer.coverage" NAME="16_turtle_graphics_squer Coverage Results" MODIFIED="1614837801540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_04" />
     <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$12_stock_transaction.coverage" NAME="12_stock_transaction Coverage Results" MODIFIED="1614755859928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_02" />
     <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$08_name_search.coverage" NAME="08_name_search Coverage Results" MODIFIED="1614935387414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_07" />
+    <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$09_blackjack_simulation.coverage" NAME="09_blackjack_simulation Coverage Results" MODIFIED="1615083449014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_09" />
     <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$02_calories_burned.coverage" NAME="02_calories_burned Coverage Results" MODIFIED="1614833010093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_04" />
     <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$15_time_calculator.coverage" NAME="15_time_calculator Coverage Results" MODIFIED="1614761831439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_03" />
     <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$10_tuition_increase.coverage" NAME="10_tuition_increase Coverage Results" MODIFIED="1614835406149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_04" />
+    <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$05_word_frequency.coverage" NAME="05_word_frequency Coverage Results" MODIFIED="1615026111141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_09" />
+    <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$03_file_encr_and_decryption.coverage" NAME="03_file_encr_and decryption Coverage Results" MODIFIED="1615023543810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_09" />
     <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$05_average_rainfall.coverage" NAME="05_average_rainfall Coverage Results" MODIFIED="1614834045644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_04" />
+    <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$02_capital_quiz.coverage" NAME="02_capital_quiz Coverage Results" MODIFIED="1615019943353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_09" />
     <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$07_driver_license_exam.coverage" NAME="07_driver_license_exam Coverage Results" MODIFIED="1614935380270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_07" />
     <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$algor_simulator_05.coverage" NAME="algor_simulator_05 Coverage Results" MODIFIED="1614928540620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_07" />
     <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$09_vowels_consonants.coverage" NAME="09_vowels_consonants Coverage Results" MODIFIED="1615011102671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_08" />
     <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$17_turtle_graphics_star.coverage" NAME="17_turtle_graphics_star Coverage Results" MODIFIED="1614838002455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_04" />
-    <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$07_character_analysis.coverage" NAME="07_character_analysis Coverage Results" MODIFIED="1615010381155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_08" />
+    <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$07_character_analysis.coverage" NAME="07_character_analysis Coverage Results" MODIFIED="1615013299205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_08" />
     <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$08_paint_estimator.coverage" NAME="08_paint_estimator Coverage Results" MODIFIED="1614840555614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_05" />
     <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$08_sentence_capitalizer.coverage" NAME="08_sentence_capitalizer Coverage Results" MODIFIED="1615010923971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_08" />
     <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$07_pennies_pay.coverage" NAME="07_pennies_pay Coverage Results" MODIFIED="1614834482919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_04" />
@@ -347,6 +404,8 @@
     <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$18_prime_numbers.coverage" NAME="18_prime_numbers Coverage Results" MODIFIED="1614847934153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_05" />
     <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$03_rainfall_statistics.coverage" NAME="03_rainfall_statistics Coverage Results" MODIFIED="1614932698275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_07" />
     <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$14_pie_chart_of_expenses_.coverage" NAME="14_pie_chart_of_expenses. Coverage Results" MODIFIED="1614939041168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_07" />
+    <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$04_unique_words.coverage" NAME="04_unique_words Coverage Results" MODIFIED="1615024125232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_09" />
+    <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$01_course_information.coverage" NAME="01_course_information Coverage Results" MODIFIED="1615019119640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_09" />
     <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$20_random_number_game.coverage" NAME="20_random_number_game Coverage Results" MODIFIED="1614850992489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_05" />
     <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$16_test_average_and_grade.coverage" NAME="16_test_average_and_grade Coverage Results" MODIFIED="1614846866254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_05" />
     <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$02_lottery_num_generator.coverage" NAME="02_lottery_num_generator Coverage Results" MODIFIED="1614929184312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_07" />
