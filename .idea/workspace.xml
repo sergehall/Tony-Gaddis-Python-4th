@@ -1,27 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bed76a71-944f-4051-a2e1-5fecffeef46e" name="Default Changelist" comment="Chapter 08">
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_08/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09/01_course_information.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09/02_capital_quiz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09/03_file_encr_and decryption.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09/04_unique_words.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09/05_word_frequency.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09/06_file_analysis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09/07_world_series_winners.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09/08_name_email_addresses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09/09_blackjack_simulation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09/WorldSeriesWinners.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09/de_crypt_code.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09/my_crypt.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09/name_email.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09/text_count_9.4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09/text_count_9.6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09/text_count_9_6_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_09/text_file_9.4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Tony-Gaddis-Python-4th.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Tony-Gaddis-Python-4th.iml" afterDir="false" />
+    <list default="true" id="bed76a71-944f-4051-a2e1-5fecffeef46e" name="Default Changelist" comment="Chapter 09">
+      <change afterPath="$PROJECT_DIR$/chapter_09/en_crypt.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_10/01_class_pet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_10/02_class_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_10/03_personal_Info_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_10/04_employee_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_10/05_retailItem_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_10/06_medical_expenses..py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_10/07_employee_manage_system.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_10/08_cash_register.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_10/09_trivia_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_10/employees.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -77,43 +68,18 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.09_blackjack_simulation">
-    <configuration name="05_word_frequency" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.09_trivia_game">
+    <configuration name="05_retailItem_class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Tony-Gaddis-Python-4th" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_09" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_09/05_word_frequency.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="06_file_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Tony-Gaddis-Python-4th" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_09" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_09/06_file_analysis.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_10/05_retailItem_class.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,20 +88,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07_world_series_winners" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06_medical_expenses." type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Tony-Gaddis-Python-4th" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_09" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_09/07_world_series_winners.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_10/06_medical_expenses..py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,20 +107,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="08_name_email_addresses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07_employee_manage_system" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Tony-Gaddis-Python-4th" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_09" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_09/08_name_email_addresses.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_10/07_employee_manage_system.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,17 +126,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="09_blackjack_simulation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="08_cash_register" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Tony-Gaddis-Python-4th" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_09" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_09/09_blackjack_simulation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_10/08_cash_register.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="09_trivia_game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Tony-Gaddis-Python-4th" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_10/09_trivia_game.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.09_blackjack_simulation" />
-        <item itemvalue="Python.08_name_email_addresses" />
-        <item itemvalue="Python.07_world_series_winners" />
-        <item itemvalue="Python.06_file_analysis" />
-        <item itemvalue="Python.05_word_frequency" />
+        <item itemvalue="Python.09_trivia_game" />
+        <item itemvalue="Python.08_cash_register" />
+        <item itemvalue="Python.07_employee_manage_system" />
+        <item itemvalue="Python.06_medical_expenses." />
+        <item itemvalue="Python.05_retailItem_class" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +220,10 @@
       <workItem from="1615018474952" duration="4762000" />
       <workItem from="1615023319321" duration="4649000" />
       <workItem from="1615082489249" duration="2674000" />
-      <workItem from="1615276438733" duration="315000" />
+      <workItem from="1615276438733" duration="608000" />
+      <workItem from="1615277220325" duration="1000" />
+      <workItem from="1615277224058" duration="2000" />
+      <workItem from="1615360014473" duration="4165000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter 02/03">
       <created>1614750374343</created>
@@ -327,7 +309,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615013406755</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Chapter 09">
+      <created>1615276943731</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1615276943731</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -355,7 +344,8 @@
     <MESSAGE value="Chapter 06" />
     <MESSAGE value="Chapter 07" />
     <MESSAGE value="Chapter 08" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 08" />
+    <MESSAGE value="Chapter 09" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 09" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$04_number_analysis_program.coverage" NAME="04_number_analysis_program Coverage Results" MODIFIED="1614933360004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_07" />
