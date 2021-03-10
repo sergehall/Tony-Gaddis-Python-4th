@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bed76a71-944f-4051-a2e1-5fecffeef46e" name="Default Changelist" comment="Chapter 09">
-      <change afterPath="$PROJECT_DIR$/chapter_09/en_crypt.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_10/01_class_pet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_10/02_class_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_10/03_personal_Info_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_10/04_employee_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_10/05_retailItem_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_10/06_medical_expenses..py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_10/07_employee_manage_system.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_10/08_cash_register.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_10/09_trivia_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_10/employees.dat" afterDir="false" />
+    <list default="true" id="bed76a71-944f-4051-a2e1-5fecffeef46e" name="Default Changelist" comment="Chapter 10">
+      <change afterPath="$PROJECT_DIR$/chapter_11/01_empl_product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_11/02_shift_supervisor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_11/03_person_customer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -68,18 +60,18 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.09_trivia_game">
-    <configuration name="05_retailItem_class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.03_person_customer">
+    <configuration name="01_empl_product" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Tony-Gaddis-Python-4th" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_10/05_retailItem_class.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_11/01_empl_product.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,17 +80,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06_medical_expenses." type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03_person_customer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Tony-Gaddis-Python-4th" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_10/06_medical_expenses..py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_11/03_person_customer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.03_person_customer" />
+        <item itemvalue="Python.01_empl_product" />
         <item itemvalue="Python.09_trivia_game" />
         <item itemvalue="Python.08_cash_register" />
         <item itemvalue="Python.07_employee_manage_system" />
-        <item itemvalue="Python.06_medical_expenses." />
-        <item itemvalue="Python.05_retailItem_class" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +215,7 @@
       <workItem from="1615276438733" duration="608000" />
       <workItem from="1615277220325" duration="1000" />
       <workItem from="1615277224058" duration="2000" />
-      <workItem from="1615360014473" duration="4165000" />
+      <workItem from="1615360014473" duration="5066000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter 02/03">
       <created>1614750374343</created>
@@ -316,7 +308,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615276943731</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Chapter 10">
+      <created>1615364534250</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1615364534250</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -345,7 +344,8 @@
     <MESSAGE value="Chapter 07" />
     <MESSAGE value="Chapter 08" />
     <MESSAGE value="Chapter 09" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 09" />
+    <MESSAGE value="Chapter 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 10" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Tony_Gaddis_Python_4th$04_number_analysis_program.coverage" NAME="04_number_analysis_program Coverage Results" MODIFIED="1614933360004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_07" />

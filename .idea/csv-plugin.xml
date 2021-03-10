@@ -598,6 +598,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/chapter_11/01_empl_product.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/chapter_11/03_person_customer.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
